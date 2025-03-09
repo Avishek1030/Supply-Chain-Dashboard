@@ -27,4 +27,5 @@ https://app.powerbi.com/view?r=eyJrIjoiNzg1OGY4MDMtYTVhNy00ODgxLTgyMGYtOTBjMWU3O
 
  
 📊 Dashboard Preview
-https://github.com/Avishek1030/Supply-Chain-Dashboard/blob/main/Inspection.jpg?raw=true
+
+![Supply-Chain-Dashboard](https://github.com/Avishek1030/Supply-Chain-Dashboard/blob/main/Performance.png?raw=true)
