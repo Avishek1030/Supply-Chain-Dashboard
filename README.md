@@ -22,6 +22,9 @@ KEY TAKEAWAYS :
 ✔️ Skincare products had the highest inspection failures (40%), followed by haircare (34%) and cosmetics (26%).
 ✔️ Supplier 1 had the highest inspection failures (27 cases), requiring attention to quality improvement.
 
+🛠️ Tools & Technologies
+Power BI (Data Analysis ,Dashboard Creation & Data Visualization)
+
 Checkout my Power Bi Dashbord : 
 https://app.powerbi.com/view?r=eyJrIjoiNzg1OGY4MDMtYTVhNy00ODgxLTgyMGYtOTBjMWU3ODdkZWQ2IiwidCI6IjkzMzY5MjI2LTA5NDYtNGExZS05N2FkLTlhNjVmNzc4MzQ2YiJ9
 
